@@ -1,0 +1,55 @@
+Task 1 for, for-in, for-of,for-each loop outputs
+----------------------------------------------------------------
+for loop
+{
+    "Name": "Raghavendran",
+    "Age": "24",
+    "Gender": "Male"
+}
+for loop
+{
+    "Name": "Raghavi",
+    "Age": "24",
+    "Gender": "Female"
+}
+
+-------------------------------------------------------------
+for-in loop
+{
+    "Name": "Raghavendran",
+    "Age": "24",
+    "Gender": "Male"
+}
+for-in loop
+{
+    "Name": "Raghavi",
+    "Age": "24",
+    "Gender": "Female"
+}
+-------------------------------------------------------------
+for-of loop
+{
+    "Name": "Raghavendran",
+    "Age": "24",
+    "Gender": "Male"
+}
+for-of loop
+{
+    "Name": "Raghavi",
+    "Age": "24",
+    "Gender": "Female"
+}
+-------------------------------------------------------------
+for-each loop
+{
+    "Name": "Raghavendran",
+    "Age": "24",
+    "Gender": "Male"
+}
+for-each loop
+{
+    "Name": "Raghavi",
+    "Age": "24",
+    "Gender": "Female"
+}
+-------------------------------------------------------------

@@ -1,0 +1,52 @@
+Task 2 Resume output
+----------------------------------------------------------------
+{
+    "Full_Name": "Raghavendran G",
+    "Age": "24",
+    "Gender": "Male",
+    "Contact": "+91 XXXXXXXXXX",
+    "Country": "India",
+    "State": "Tamil Nadu",
+    "City": "Chennai",
+    "Zip_Code": "12345",
+    "Education": [
+        {
+            "SSLC": {
+                "School_Name": "GKSHV",
+                "Qualification": "SSLC",
+                "Percentage": "90%"
+            }
+        },
+        {
+            "HSC": {
+                "School_Name": "GKSHV",
+                "Qualification": "HSC",
+                "Percentage": "90%"
+            }
+        },
+        {
+            "Undergraduate": {
+                "Collehe_Name": "RIT",
+                "Degree": "B.tech",
+                "Major": "Information Technology",
+                "CGPA": "7.5"
+            }
+        }
+    ],
+    "Experience_1": "Comapny ABC",
+    "Experience_2": "Company DEF",
+    "Technical_Skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node",
+        "MongoDB"
+    ],
+    "Soft_Skills": [
+        "Decision Making",
+        "Leadership",
+        "Communication",
+        "Problem Solving"
+    ]
+}
+----------------------------------------------------------------
